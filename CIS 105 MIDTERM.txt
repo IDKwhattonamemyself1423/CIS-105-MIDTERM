@@ -1,5 +1,7 @@
 CIS 105 MIDTERM
 
+pseduocode 
+
 Start
 let user input variable store as integer 
 take said integer and multiply it by every number less then it (non-inclusive) until zero but not including zero
