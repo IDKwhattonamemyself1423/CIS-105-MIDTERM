@@ -1,0 +1,6 @@
+CIS 105 MIDTERM
+
+Start
+let user input variable store as integer 
+take said integer and multiply it by every number less then it (non-inclusive) until zero but not including zero
+display the result of that.
